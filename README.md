@@ -16,7 +16,8 @@ and provide clear insights through visual analytics and storytelling.
 
 ### 🔹 Main Overview
 
-![Amazon Prime Dashboard](Amazonprimedashboard.jpg)
+![Amazon Prime Dashboard](screenshots/Amazonprimedashboard.jpg)
+
 
 ---
 
