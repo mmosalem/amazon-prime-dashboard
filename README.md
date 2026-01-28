@@ -24,3 +24,10 @@ and provide clear insights through visual analytics.
 - Data modeling
 - Dashboard design
 - Business insights
+
+------
+
+## 📊 Dashboard Preview
+
+![Amazon Prime Dashboard](screenshots/Amazonprimedashboard.jpg)
+
