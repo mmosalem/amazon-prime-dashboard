@@ -2,20 +2,27 @@
 
 ## 📌 Project Overview
 This project presents a Power BI dashboard built to analyze Amazon Prime data
-and provide clear insights through visual analytics.
+and provide clear insights through visual analytics and storytelling.
 
 ---
 
-## 🛠️ Tools Used
+## 🛠 Tools Used
 - Power BI
 - Excel / CSV (data source)
 
 ---
 
+## 📊 Dashboard Preview
+
+### 🔹 Main Overview
+![Dashboard Overview](Amazonprimedashboard.jpg)
+
+---
+
 ## 🧠 Key Insights
-- Content distribution by genre
-- Movies vs TV shows comparison
-- Release trends over years
+- Top genres identified based on viewership data.
+- Content release trends over years visualized.
+- Comparison of movies vs TV shows performance.
 
 ---
 
@@ -23,11 +30,4 @@ and provide clear insights through visual analytics.
 - Data visualization
 - Data modeling
 - Dashboard design
-- Business insights
-
-------
-
-## 📊 Dashboard Preview
-
-![Amazon Prime Dashboard](screenshots/Amazonprimedashboard.jpg)
-
+- Business insights communication
